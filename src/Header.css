@@ -1,0 +1,18 @@
+.one{
+    position:sticky;
+    background-color: rgb(0, 255, 247);
+    display: flex ;
+    margin: 2%; 
+    left: 0;
+    top: 0;
+    justify-content: center;
+    border-radius: 20px;
+    
+
+
+}
+.one>h1>b{
+    align-items: center;
+}
+
+ 
